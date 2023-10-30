@@ -1,0 +1,17 @@
+object  Versions {
+    const val kotlin = "1.5.0"
+    const val appCompat = "1.3.0"
+    const val timber = "5.0.1"
+    const val core = "1.12.0"
+    const val daggerHilt = "2.45"
+    const val daggerHiltCompiler = "2.44.2"
+    const val room = "2.5.2"
+    const val coroutines = "1.6.4"
+    const val liveData = "2.6.1"
+    const val retrofit = "2.9.0"
+    const val okhttp3Logging = "4.11.0"
+    const val okhttp3 = "5.0.0-alpha.2"
+    const val sqlCipher = "4.4.0"
+    const val sqlite = "2.3.1"
+    const val lottie = "3.4.1"
+}
